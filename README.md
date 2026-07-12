@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/mac.jpg" width="200" alt="Mac Anderson" />
-
 <h1>Mac Anderson - Founder & CEO of <a href="https://oxagen.sh">Oxagen</a></h1>
 
 Building the infrastructure layer for AI agents. From Los Angeles, CA.
