@@ -54,9 +54,18 @@ I use GitHub hard. The numbers below are on my public profile, so you can check 
   <img alt="Mac Anderson's contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=macanderson&hide_border=true&bg_color=00000000&color=768390&line=FF7E5F&point=C2185B&area=true&area_color=FF7E5F&custom_title=Contribution%20activity">
 </a>
 
-<a href="https://github.com/macanderson">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macanderson&layout=compact&hide_border=true&bg_color=00000000&title_color=FF7E5F&text_color=768390&langs_count=8">
-</a>
+**The stack I build in:**
+
+<p>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-16181D?style=flat-square&logo=rust&logoColor=FF7E5F">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-16181D?style=flat-square&logo=typescript&logoColor=6E48CE">
+  <img alt="Python" src="https://img.shields.io/badge/Python-16181D?style=flat-square&logo=python&logoColor=FF7E5F">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-16181D?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-16181D?style=flat-square&logo=postgresql&logoColor=6E48CE">
+  <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-16181D?style=flat-square&logo=neo4j&logoColor=FF7E5F">
+  <img alt="ClickHouse" src="https://img.shields.io/badge/ClickHouse-16181D?style=flat-square&logo=clickhouse&logoColor=FF7E5F">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-16181D?style=flat-square&logo=docker&logoColor=6E48CE">
+</p>
 
 ## Let's talk business
 
