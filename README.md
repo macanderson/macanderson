@@ -11,18 +11,17 @@ Los Angeles, CA</p>
 <p>
   <a href="https://macanderson.com"><img alt="Website" src="https://img.shields.io/badge/macanderson.com-6E48CE?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=16181D"></a>
   <a href="mailto:mac@oxagen.sh"><img alt="Email" src="https://img.shields.io/badge/mac@oxagen.sh-16181D?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=16181D"></a>
-  <img alt="Phone" src="https://img.shields.io/badge/Text%20or%20Call-%2B1%20628%20236%207797-C2185B?style=for-the-badge&labelColor=16181D">
 </p>
 
 </div>
 
 ---
 
-I am a founder who still writes the code. I have been on GitHub since 2010, and these days I ship every day. My focus is Oxagen: cheaper tokens, higher quality, and an audit trail teams can actually read, so anyone can build and resell AI agents on infrastructure that is governed, grounded, and metered.
+I am a founder who still writes the code. I have been on GitHub since 2010, and I ship code every day. My focus is Oxagen and we aim to be the go to agent platform for ultra-secure, compliance heavy organizations and state/local/federal governments.
 
 ## What I build
 
-I am the founder and CEO of **[Oxagen](https://oxagen.sh)**, and I am also the lead engineer. Three things I created and actively build:
+I am the founder and CEO of **[Oxagen](https://oxagen.sh)**, and I am also the principle engineer and architect. Three things I created and actively build:
 
 - **Oxagen Platform** &nbsp;·&nbsp; the metered, governed, graph-grounded control plane for teams that build and resell AI agents. This is the core product. The repo is private, but it is mine end to end: the architecture, the capability contracts, the knowledge graph, and most of the commits. Site: **[oxagen.sh](https://oxagen.sh)**.
 - **[Stella](https://github.com/oxageninc/stella)** &nbsp;·&nbsp; a fast, BYOK, model-agnostic terminal coding agent, in Rust. Parallel tools, judged goals, and witness-verified "done". I created it and maintain it.
@@ -36,7 +35,7 @@ I am the founder and CEO of **[Oxagen](https://oxagen.sh)**, and I am also the l
 
 ## On GitHub, every day
 
-I use GitHub hard. The numbers below are on my public profile, so you can check the graph yourself.
+The numbers below are on my public profile, so you can check the graph yourself.
 
 <p>
   <img alt="On GitHub since 2010" src="https://img.shields.io/badge/On%20GitHub%20since-2010-6E48CE?style=for-the-badge&labelColor=16181D">
@@ -71,10 +70,10 @@ I read every message, and I move fast. If you want to talk about working togethe
 
 ### 📱 Text or call: +1 (628) 236-7797
 
-- ✉️ Email: **[mac@oxagen.sh](mailto:mac@oxagen.sh)**
-- 🌐 Web: **[macanderson.com](https://macanderson.com)**
-- 🏢 Company: **[oxagen.sh](https://oxagen.sh)** &nbsp;·&nbsp; Los Angeles, CA
+- Email: **[mac@oxagen.sh](mailto:mac@oxagen.sh)**
+- Website: **[macanderson.com](https://macanderson.com)**
+- Company: **[oxagen.sh](https://oxagen.sh)** &nbsp;·&nbsp; Los Angeles, CA
 
 <div align="center">
-<sub>Founder and engineer. I do the heavy lifting you never see.</sub>
+<sub>Founder and engineer and loving every minute of it.</sub>
 </div>
