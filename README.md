@@ -30,9 +30,7 @@ I am the founder and CEO of **[Oxagen](https://oxagen.sh)**, and I am also the l
 
 ## More open source
 
-- **[capsule](https://github.com/macanderson/capsule)** &nbsp;·&nbsp; your memories, personality, and wisdom, capsuled for eternity. `TypeScript`
-- **[ml-data-pipelines-builder](https://github.com/macanderson/ml-data-pipelines-builder)** &nbsp;·&nbsp; a streaming data framework for Apache Kafka, Avro, and Flink. `Python`
-- **[ml-env-manager](https://github.com/macanderson/ml-env-manager)** &nbsp;·&nbsp; manage environments, variables, and secrets from many sources with ease. `Python`
+- **[confetti](https://github.com/macanderson/confetti)** &nbsp;·&nbsp; manage environments, variables, and secrets from many sources with ease. `Python`
 - **[ml-notebooks](https://github.com/macanderson/ml-notebooks)** &nbsp;·&nbsp; language-model exploration notebooks. `Jupyter`
 - **[dotfiles](https://github.com/macanderson/dotfiles)** &nbsp;·&nbsp; my machine setup and installer scripts. `Shell`
 
