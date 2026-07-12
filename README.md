@@ -1,0 +1,73 @@
+<div align="center">
+
+<img src="./assets/mac.jpg" width="200" alt="Mac Anderson" />
+
+<h1>Mac Anderson</h1>
+
+<p><strong>CEO and Founder of <a href="https://oxagen.sh">Oxagen</a></strong><br>
+Building the infrastructure layer for AI agents.<br>
+Los Angeles, CA</p>
+
+<p>
+  <a href="https://macanderson.com"><img alt="Website" src="https://img.shields.io/badge/macanderson.com-6E48CE?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=16181D"></a>
+  <a href="mailto:mac@oxagen.sh"><img alt="Email" src="https://img.shields.io/badge/mac@oxagen.sh-16181D?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=16181D"></a>
+  <img alt="Phone" src="https://img.shields.io/badge/Text%20or%20Call-%2B1%20628%20236%207797-C2185B?style=for-the-badge&labelColor=16181D">
+</p>
+
+</div>
+
+---
+
+I am a founder who still writes the code. I have been on GitHub since 2010, and these days I ship every day. My focus is Oxagen: cheaper tokens, higher quality, and an audit trail teams can actually read, so anyone can build and resell AI agents on infrastructure that is governed, grounded, and metered.
+
+## What I build
+
+I am the founder and CEO of **[Oxagen](https://oxagen.sh)**, and I am also the lead engineer. Three things I created and actively build:
+
+- **Oxagen Platform** &nbsp;·&nbsp; the metered, governed, graph-grounded control plane for teams that build and resell AI agents. This is the core product. The repo is private, but it is mine end to end: the architecture, the capability contracts, the knowledge graph, and most of the commits. Site: **[oxagen.sh](https://oxagen.sh)**.
+- **[Stella](https://github.com/oxageninc/stella)** &nbsp;·&nbsp; a fast, BYOK, model-agnostic terminal coding agent, in Rust. Parallel tools, judged goals, and witness-verified "done". I created it and maintain it.
+- **[Arena](https://github.com/oxageninc/arena)** &nbsp;·&nbsp; run your coding agent head to head against Claude Code, Gemini, and other top agents, with regression checks that keep it improving instead of drifting. Also mine.
+
+## More open source
+
+- **[capsule](https://github.com/macanderson/capsule)** &nbsp;·&nbsp; your memories, personality, and wisdom, capsuled for eternity. `TypeScript`
+- **[ml-data-pipelines-builder](https://github.com/macanderson/ml-data-pipelines-builder)** &nbsp;·&nbsp; a streaming data framework for Apache Kafka, Avro, and Flink. `Python`
+- **[ml-env-manager](https://github.com/macanderson/ml-env-manager)** &nbsp;·&nbsp; manage environments, variables, and secrets from many sources with ease. `Python`
+- **[ml-notebooks](https://github.com/macanderson/ml-notebooks)** &nbsp;·&nbsp; language-model exploration notebooks. `Jupyter`
+- **[dotfiles](https://github.com/macanderson/dotfiles)** &nbsp;·&nbsp; my machine setup and installer scripts. `Shell`
+
+## On GitHub, every day
+
+I use GitHub hard. The numbers below are on my public profile, so you can check the graph yourself.
+
+<p>
+  <img alt="On GitHub since 2010" src="https://img.shields.io/badge/On%20GitHub%20since-2010-6E48CE?style=for-the-badge&labelColor=16181D">
+  <img alt="Contributions in the last year" src="https://img.shields.io/badge/Contributions%20last%20year-9%2C000%2B-FF7E5F?style=for-the-badge&labelColor=16181D">
+  <img alt="Peak day" src="https://img.shields.io/badge/Peak%20day-396%20commits-C2185B?style=for-the-badge&labelColor=16181D">
+</p>
+
+<a href="https://github.com/macanderson">
+  <img alt="Mac Anderson's GitHub streak" src="https://streak-stats.demolab.com?user=macanderson&hide_border=true&background=00000000&border_radius=8&stroke=88888844&ring=FF7E5F&fire=C2185B&currStreakLabel=FF7E5F&currStreakNum=808590&sideNums=808590&dates=80859080&sideLabels=808590&dayLabel=808590&excludeDaysLabel=808590" height="150">
+</a>
+
+<a href="https://github.com/macanderson">
+  <img alt="Mac Anderson's contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=macanderson&hide_border=true&bg_color=00000000&color=768390&line=FF7E5F&point=C2185B&area=true&area_color=FF7E5F&custom_title=Contribution%20activity">
+</a>
+
+<a href="https://github.com/macanderson">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macanderson&layout=compact&hide_border=true&bg_color=00000000&title_color=FF7E5F&text_color=768390&langs_count=8">
+</a>
+
+## Let's talk business
+
+I read every message, and I move fast. If you want to talk about working together, investing, partnering, or building on Oxagen, the quickest way to reach me is my phone. Text or call.
+
+### 📱 Text or call: +1 (628) 236-7797
+
+- ✉️ Email: **[mac@oxagen.sh](mailto:mac@oxagen.sh)**
+- 🌐 Web: **[macanderson.com](https://macanderson.com)**
+- 🏢 Company: **[oxagen.sh](https://oxagen.sh)** &nbsp;·&nbsp; Los Angeles, CA
+
+<div align="center">
+<sub>Founder and engineer. I do the heavy lifting you never see.</sub>
+</div>
