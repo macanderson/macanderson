@@ -2,16 +2,19 @@
 
 <img src="./assets/mac.jpg" width="200" alt="Mac Anderson" />
 
-<h1>Mac Anderson</h1>
+<h1>Mac Anderson - Founder & CEO of <a href="https://oxagen.sh">Oxagen</a></h1>
 
-<p><strong>CEO and Founder of <a href="https://oxagen.sh">Oxagen</a></strong><br>
-Building the infrastructure layer for AI agents.<br>
-Los Angeles, CA</p>
+Building the infrastructure layer for AI agents. From Los Angeles, CA.
 
 <p>
-  <a href="https://macanderson.com"><img alt="Website" src="https://img.shields.io/badge/macanderson.com-6E48CE?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=16181D"></a>
+  <a href="https://oxagen.sh"><img alt="Website" src="https://img.shields.io/badge/oxagen.sh-6E48CE?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=16181D"></a>
   <a href="mailto:mac@oxagen.sh"><img alt="Email" src="https://img.shields.io/badge/mac@oxagen.sh-16181D?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=16181D"></a>
+<img alt="On GitHub since 2010" src="https://img.shields.io/badge/On%20GitHub%20since-2010-6E48CE?style=for-the-badge&labelColor=16181D">
+  <img alt="Contributions in the last year" src="https://img.shields.io/badge/Contributions%20last%20year-9%2C000%2B-FF7E5F?style=for-the-badge&labelColor=16181D">
+  <img alt="Peak day" src="https://img.shields.io/badge/Peak%20day-396%20commits-C2185B?style=for-the-badge&labelColor=16181D">
 </p>
+
+
 
 </div>
 
@@ -37,16 +40,6 @@ I am the founder and CEO of **[Oxagen](https://oxagen.sh)**, and I am also the p
 
 The numbers below are on my public profile, so you can check the graph yourself.
 
-<p>
-  <img alt="On GitHub since 2010" src="https://img.shields.io/badge/On%20GitHub%20since-2010-6E48CE?style=for-the-badge&labelColor=16181D">
-  <img alt="Contributions in the last year" src="https://img.shields.io/badge/Contributions%20last%20year-9%2C000%2B-FF7E5F?style=for-the-badge&labelColor=16181D">
-  <img alt="Peak day" src="https://img.shields.io/badge/Peak%20day-396%20commits-C2185B?style=for-the-badge&labelColor=16181D">
-</p>
-
-<a href="https://github.com/macanderson">
-  <img alt="Mac Anderson's GitHub streak" src="https://streak-stats.demolab.com?user=macanderson&hide_border=true&background=00000000&border_radius=8&stroke=88888844&ring=FF7E5F&fire=C2185B&currStreakLabel=FF7E5F&currStreakNum=808590&sideNums=808590&dates=80859080&sideLabels=808590&dayLabel=808590&excludeDaysLabel=808590" height="150">
-</a>
-
 <a href="https://github.com/macanderson">
   <img alt="Mac Anderson's contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=macanderson&hide_border=true&bg_color=00000000&color=768390&line=FF7E5F&point=C2185B&area=true&area_color=FF7E5F&custom_title=Contribution%20activity">
 </a>
@@ -68,12 +61,7 @@ The numbers below are on my public profile, so you can check the graph yourself.
 
 I read every message, and I move fast. If you want to talk about working together, investing, partnering, or building on Oxagen, the quickest way to reach me is my phone. Text or call.
 
-### 📱 Text or call: +1 (628) 236-7797
-
 - Email: **[mac@oxagen.sh](mailto:mac@oxagen.sh)**
+- Phone: +1-628-236-7797
 - Website: **[macanderson.com](https://macanderson.com)**
 - Company: **[oxagen.sh](https://oxagen.sh)** &nbsp;·&nbsp; Los Angeles, CA
-
-<div align="center">
-<sub>Founder and engineer and loving every minute of it.</sub>
-</div>
