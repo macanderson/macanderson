@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Mac Anderson - Founder & CEO of <a href="https://oxagen.sh">Oxagen</a></h1>
+<h1>Mac Anderson - Founder & CEO of <a href="https://oxagen.sh">Oxagen</a> creator of <a href="https://github.com/macanderson/stella">Stella</a> and <a href="https://github.com/macanderson/arena">Arena</a></h1>
 
 Building the infrastructure layer for AI agents. From Los Angeles, CA.
 
