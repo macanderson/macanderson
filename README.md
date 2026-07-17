@@ -10,6 +10,8 @@ Building the infrastructure layer for AI agents. From Los Angeles, CA.
 <img alt="On GitHub since 2010" src="https://img.shields.io/badge/On%20GitHub%20since-2010-6E48CE?style=for-the-badge&labelColor=16181D">
   <img alt="Contributions in the last year" src="https://img.shields.io/badge/Contributions%20last%20year-9%2C000%2B-FF7E5F?style=for-the-badge&labelColor=16181D">
   <img alt="Peak day" src="https://img.shields.io/badge/Peak%20day-396%20commits-C2185B?style=for-the-badge&labelColor=16181D">
+  <a href="https://github.com/sponsors/macanderson"><img alt="Sponsor Mac Anderson" src="https://img.shields.io/badge/Sponsor%20Mac%20Anderson-C2185B?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=16181D"></a>
+
 </p>
 
 
