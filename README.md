@@ -5,12 +5,12 @@
 Building the infrastructure layer for AI agents. From Los Angeles, CA.
 
 <p>
-  <a href="https://oxagen.sh"><img alt="Website" src="https://img.shields.io/badge/oxagen.sh-6E48CE?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=16181D"></a>
-  <a href="mailto:mac@oxagen.sh"><img alt="Email" src="https://img.shields.io/badge/mac@oxagen.sh-16181D?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=16181D"></a>
-<img alt="On GitHub since 2010" src="https://img.shields.io/badge/On%20GitHub%20since-2010-6E48CE?style=for-the-badge&labelColor=16181D">
-  <img alt="Contributions in the last year" src="https://img.shields.io/badge/Contributions%20last%20year-9%2C000%2B-FF7E5F?style=for-the-badge&labelColor=16181D">
-  <img alt="Peak day" src="https://img.shields.io/badge/Peak%20day-396%20commits-C2185B?style=for-the-badge&labelColor=16181D">
-  <a href="https://github.com/sponsors/macanderson"><img alt="Sponsor Mac Anderson" src="https://img.shields.io/badge/Sponsor%20Mac%20Anderson-C2185B?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=16181D"></a>
+  <a href="https://oxagen.sh"><img alt="Website" src="https://img.shields.io/badge/oxagen.sh-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=09090B&labelColor=09090B"></a>
+  <a href="mailto:mac@oxagen.sh"><img alt="Email" src="https://img.shields.io/badge/mac@oxagen.sh-09090B?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=09090B"></a>
+<img alt="On GitHub since 2010" src="https://img.shields.io/badge/On%20GitHub%20since-2010-27272A?style=for-the-badge&labelColor=09090B">
+  <img alt="Contributions in the last year" src="https://img.shields.io/badge/Contributions%20last%20year-9%2C000%2B-27272A?style=for-the-badge&labelColor=09090B">
+  <img alt="Peak day" src="https://img.shields.io/badge/Peak%20day-396%20commits-27272A?style=for-the-badge&labelColor=09090B">
+  <a href="https://github.com/sponsors/macanderson"><img alt="Sponsor Mac Anderson" src="https://img.shields.io/badge/Sponsor%20Mac%20Anderson-27272A?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=09090B"></a>
 
 </p>
 
@@ -41,20 +41,20 @@ I am the founder and CEO of **[Oxagen](https://oxagen.sh)**, and I am also the p
 The numbers below are on my public profile, so you can check the graph yourself.
 
 <a href="https://github.com/macanderson">
-  <img alt="Mac Anderson's contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=macanderson&hide_border=true&bg_color=00000000&color=768390&line=FF7E5F&point=C2185B&area=true&area_color=FF7E5F&custom_title=Contribution%20activity">
+  <img alt="Mac Anderson's contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=macanderson&hide_border=true&bg_color=00000000&color=A1A1AA&line=D4AF37&point=FFFFFF&area=true&area_color=27272A&custom_title=Contribution%20activity">
 </a>
 
 **The stack I build in:**
 
 <p>
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-16181D?style=flat-square&logo=rust&logoColor=FF7E5F">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-16181D?style=flat-square&logo=typescript&logoColor=6E48CE">
-  <img alt="Python" src="https://img.shields.io/badge/Python-16181D?style=flat-square&logo=python&logoColor=FF7E5F">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-16181D?style=flat-square&logo=nextdotjs&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-16181D?style=flat-square&logo=postgresql&logoColor=6E48CE">
-  <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-16181D?style=flat-square&logo=neo4j&logoColor=FF7E5F">
-  <img alt="ClickHouse" src="https://img.shields.io/badge/ClickHouse-16181D?style=flat-square&logo=clickhouse&logoColor=FF7E5F">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-16181D?style=flat-square&logo=docker&logoColor=6E48CE">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-09090B?style=flat-square&logo=rust&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-09090B?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-09090B?style=flat-square&logo=python&logoColor=white">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-09090B?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-09090B?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-09090B?style=flat-square&logo=neo4j&logoColor=white">
+  <img alt="ClickHouse" src="https://img.shields.io/badge/ClickHouse-09090B?style=flat-square&logo=clickhouse&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-09090B?style=flat-square&logo=docker&logoColor=white">
 </p>
 
 ## Let's talk business
@@ -67,5 +67,5 @@ I read every message, and I move fast. If you want to talk about working togethe
 - Company: **[oxagen.sh](https://oxagen.sh)** &nbsp;·&nbsp; Los Angeles, CA
 
 <div style="text-align:center">
-  <a href="https://github.com/sponsors/macanderson"><img alt="Sponsor Mac Anderson" src="https://img.shields.io/badge/Sponsor%20Me-C2185B?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=16181D"></a>
+  <a href="https://github.com/sponsors/macanderson"><img alt="Sponsor Mac Anderson" src="https://img.shields.io/badge/Sponsor%20Me-27272A?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=09090B"></a>
 </div>
